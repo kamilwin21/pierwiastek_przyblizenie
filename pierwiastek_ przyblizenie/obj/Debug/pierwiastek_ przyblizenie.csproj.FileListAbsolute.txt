@@ -1,0 +1,14 @@
+C:\Users\Kamil\source\repos\pierwiastek_ przyblizenie\pierwiastek_ przyblizenie\bin\Debug\pierwiastek_ przyblizenie.exe.config
+C:\Users\Kamil\source\repos\pierwiastek_ przyblizenie\pierwiastek_ przyblizenie\bin\Debug\pierwiastek_ przyblizenie.exe
+C:\Users\Kamil\source\repos\pierwiastek_ przyblizenie\pierwiastek_ przyblizenie\bin\Debug\pierwiastek_ przyblizenie.pdb
+C:\Users\Kamil\source\repos\pierwiastek_ przyblizenie\pierwiastek_ przyblizenie\obj\Debug\pierwiastek_ przyblizenie.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\pierwiastek_ przyblizenie\pierwiastek_ przyblizenie\obj\Debug\MainWindow.g.cs
+C:\Users\Kamil\source\repos\pierwiastek_ przyblizenie\pierwiastek_ przyblizenie\obj\Debug\App.g.cs
+C:\Users\Kamil\source\repos\pierwiastek_ przyblizenie\pierwiastek_ przyblizenie\obj\Debug\pierwiastek_ przyblizenie_MarkupCompile.cache
+C:\Users\Kamil\source\repos\pierwiastek_ przyblizenie\pierwiastek_ przyblizenie\obj\Debug\pierwiastek_ przyblizenie_MarkupCompile.lref
+C:\Users\Kamil\source\repos\pierwiastek_ przyblizenie\pierwiastek_ przyblizenie\obj\Debug\MainWindow.baml
+C:\Users\Kamil\source\repos\pierwiastek_ przyblizenie\pierwiastek_ przyblizenie\obj\Debug\pierwiastek_ przyblizenie.g.resources
+C:\Users\Kamil\source\repos\pierwiastek_ przyblizenie\pierwiastek_ przyblizenie\obj\Debug\pierwiastek__przyblizenie.Properties.Resources.resources
+C:\Users\Kamil\source\repos\pierwiastek_ przyblizenie\pierwiastek_ przyblizenie\obj\Debug\pierwiastek_ przyblizenie.csproj.GenerateResource.cache
+C:\Users\Kamil\source\repos\pierwiastek_ przyblizenie\pierwiastek_ przyblizenie\obj\Debug\pierwiastek_ przyblizenie.exe
+C:\Users\Kamil\source\repos\pierwiastek_ przyblizenie\pierwiastek_ przyblizenie\obj\Debug\pierwiastek_ przyblizenie.pdb
